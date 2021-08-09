@@ -19,7 +19,7 @@
   
   
   ## Authors
-|<a href = 'https://github.com/orkunaran'> Orkun Tahir ARAN </a>|<a href = 'https://github.com/jainakki16'> Akshat Jain </a>|
+|<a href = 'https://github.com/jainakki16'> Akshat Jain </a>||<a href = 'https://github.com/orkunaran'> Orkun Tahir ARAN </a>
   | --- | --- |
 |<a href = 'https://github.com/orkunaran'> <img src = 'https://avatars.githubusercontent.com/u/81896230?v=4' width = '100' height = '100'> </a>|<a href = 'https://github.com/jainakki16'> <img src = 'https://avatars.githubusercontent.com/u/55969257?v=4' width = '100' height = '100'> </a>|
 
