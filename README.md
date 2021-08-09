@@ -13,6 +13,17 @@
   
 
 
-  In this notebook we analyzed 45 different Walmart Stores and tried to predict 2012 sales of these stores. The notebook included detailed Data cleaning, EDA, Machine Learning model comparison and hyperparameter tuning of the best model. In the light of our approaches to the dataset, Random Forest Regressor resulted the best prediction of 2012 sales. And hyperparameter tuning decreased the Weighted mean Squared Error score slighltly which was insignificant. 
+  In this notebook we analyzed 45 different Walmart Stores and tried to predict 2012 sales of these stores. The notebook included detailed Data cleaning, EDA, Machine Learning model comparison and hyperparameter tuning of the best model. The analysis resulted that, Random Forest Regressor resulted the best prediction of 2012 sales. And hyperparameter tuning decreased the Weighted mean Squared Error score slighltly which was insignificant. 
+  
+  
+  
+  
+  ## Authors
+|<a href = 'https://github.com/orkunaran'> Orkun Tahir ARAN </a>|<a href = 'https://github.com/jainakki16'> Akshat Jain </a>|
+  | --- | --- |
+|<a href = 'https://github.com/orkunaran'> <img src = 'https://avatars.githubusercontent.com/u/81896230?v=4' width = '100' height = '100'> </a>|<a href = 'https://github.com/jainakki16'> <img src = 'https://avatars.githubusercontent.com/u/55969257?v=4' width = '100' height = '100'> </a>|
+
+
+
   
   
