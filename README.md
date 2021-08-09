@@ -1,4 +1,4 @@
-<h1 align = 'center'> House_Prices_Regression </h1>
+<h1 align = 'center'> Walmart-Sale-Analysis </h1>
 <p align = 'center'>
   
  <a href = 'https://www.python.org/downloads/release/python-396/'>
@@ -11,4 +11,4 @@
  
  <img src = 'https://badges.pufler.dev/visits/orkunaran/Walmart-Sale-Analysis'>
   
-# Walmart-Sale-Analysis
+
